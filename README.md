@@ -1,3 +1,5 @@
+## Implementation can run on Jupiter or Google Collab
+
 # Poker-RL
 Simplified Poker game using various Agents:
 
